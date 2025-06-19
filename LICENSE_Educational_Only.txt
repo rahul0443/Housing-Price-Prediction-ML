@@ -1,0 +1,20 @@
+Custom License – Personal and Educational Use Only
+
+This project is provided strictly for personal, academic, and educational purposes.
+
+You are permitted to:
+- View and study the code and documentation
+- Reference this project in portfolios or educational settings with attribution
+
+You are NOT permitted to:
+- Use this project or its code for commercial purposes
+- Redistribute or publish modified or original versions without explicit permission
+- Claim ownership or authorship of the content
+
+All rights, including copyright, remain with the original authors:
+- Rahul Muddhapuram
+- Weiyu Chen
+- Alexis Myers
+- Sravanakumar Satish
+
+By accessing this repository, you agree to these terms.
