@@ -78,7 +78,9 @@ To develop a predictive system capable of estimating house sale prices using div
 
 ## 📄 License
 
-This project is released under the [MIT License](LICENSE).
+This project is made available **strictly for personal and educational use**.  
+Redistribution, commercial use, or public publication of any portion is **not permitted** without prior permission from the authors.  
+See `LICENSE_Educational_Only.txt` for full terms.
 
 ---
 
